@@ -8,7 +8,7 @@ I'm proficient in C,CPP,HTML5 and CSS3.Now I'm learning Web Designing .Besides p
  <ul><li>👩‍💻I'm currently working on Web developement.
      <li>💻I'm currently learning Front end developement.
       <li>🗨Ask me about: C,CPP ,HTML ,CSS !
-       <li💬>Contact me: kanchangagare.25@gmail.com
+       <li>💬Contact me: kanchangagare.25@gmail.com
             </ul><br>
  <b>Language that i know :</b>
 <ul><li>C++
@@ -17,8 +17,7 @@ I'm proficient in C,CPP,HTML5 and CSS3.Now I'm learning Web Designing .Besides p
          <li>HTML5
            <li>CSS3
              </ul>  
-           ![kanchan-gagare github stats](https://github-readme-stats.vercel.app/api?kanchan-gagare=Github_kanchan-gagare &show_icons=true)
-             <!--
-**kanchan-gagare/kanchan-gagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
+             <!--**kanchan-gagare/kanchan-gagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
