@@ -7,7 +7,7 @@ I'm proficient in C,CPP,HTML5 and CSS3.Now I'm learning Web Designing .Besides p
  #Featured:
  <ul><li>👩‍💻I'm currently working on Web developement.
      <li>💻I'm currently learning Front end developement.
-      <li>🗨Ask me about: C,CPP ,HTML ,CSS !
+      <li>🗨Ask me about: C,CPP ,HTML5 ,CSS3 !
        <li>💬Contact me: kanchangagare.25@gmail.com
             </ul><br>
  <b>Language that i know :</b>
